@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+	<name>Ecomail</name>
+	<displayName><![CDATA[Ecomail.cz]]></displayName>
+	<version><![CDATA[1.1.0]]></version>
+	<description><![CDATA[Tento modul prov&aacute;že V&aacute;&scaron; Prestashop s Va&scaron;&iacute;m &uacute;čtem u ecomail.cz]]></description>
+	<author><![CDATA[Ecomail.cz s.r.o.]]></author>
+	<tab><![CDATA[emailing]]></tab>
+	<confirmUninstall><![CDATA[Opravdu chcete modul odinstalovat?]]></confirmUninstall>
+	<is_configurable>1</is_configurable>
+	<need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
